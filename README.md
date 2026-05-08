@@ -61,12 +61,14 @@ See the [project page](https://aim-uofa.github.io/MARBLE/) for the full results 
 If you find MARBLE useful, please cite:
 
 ```bibtex
-@article{zhao2026marble,
-  title   = {MARBLE: Multi-Aspect Reward BaLancE for Diffusion RL},
-  author  = {Zhao, Canyu and Chen, Hao and Tong, Yunze and Qiao, Yu and
-             Li, Jiacheng and Shen, Chunhua},
-  journal = {arXiv preprint},
-  year    = {2026}
+@article{zhao2026marblemultiaspectrewardbalance,
+      title={MARBLE: Multi-Aspect Reward Balance for Diffusion RL},
+      author={Canyu Zhao and Hao Chen and Yunze Tong and Yu Qiao and Jiacheng Li and Chunhua Shen},
+      year={2026},
+      eprint={2605.06507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.06507},
 }
 ```
 
