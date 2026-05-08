@@ -40,6 +40,7 @@ Chunhua Shen<sup>1,3,✉</sup>
 
 - [ ] Inference + 🤗 LoRA checkpoints
 - [ ] Training code, configs, multi-node scripts
+- [ ] MARBLE for Video Model
 
 ---
 
