@@ -1,7 +1,7 @@
 <h1 align="center">MARBLE: Multi-Aspect Reward BaLancE for Diffusion RL</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"></a>
+  <a href="https://arxiv.org/abs/2605.06507"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"></a>
   <a href="https://aim-uofa.github.io/MARBLE/"><img src="https://img.shields.io/badge/Project_Page-aim--uofa.github.io-2ea44f?logo=github"></a>
   <a href="#"><img src="https://img.shields.io/badge/Checkpoints-HuggingFace-ffd21e?logo=huggingface&logoColor=black"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"></a>
